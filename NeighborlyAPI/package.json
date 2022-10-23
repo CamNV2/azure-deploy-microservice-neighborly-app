@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "azure-cli": "^0.9.1",
+    "azure-functions-core-tools": "^4.0.4829",
+    "helm": "^0.2.1",
+    "node-helm": "^0.1.0"
+  }
+}
